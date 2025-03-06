@@ -7,12 +7,12 @@ Esta API foi desenvolvida utilizando **Node.js** e **Express**, seguindo a arqui
 <table>
     <tr>
         <td align="center" width="20%">
-                <img src="https://avatars.githubusercontent.com/u/158165611?v=4" width="120px;" alt="Samuel Braga"/>
+                <img src="https://avatars.githubusercontent.com/u/158165611?v=4" width="200px;" alt="Samuel Braga"/>
                 <br /><b>Sophia Balico</b>
             <br />
         </td>
         <td align="center" width="20%">
-                <img src="https://avatars.githubusercontent.com/u/158165810?v=4" width="120px;" alt="Mariana Cardoso"/>
+                <img src="https://avatars.githubusercontent.com/u/158165810?v=4" width="200px;" alt="Mariana Cardoso"/>
                 <br /><b>Mariana Cardoso</b>
             <br />
             <sub></sub>
@@ -20,12 +20,12 @@ Esta API foi desenvolvida utilizando **Node.js** e **Express**, seguindo a arqui
     </tr>
     <tr>
         <td align="center" width="20%">
-                <img src="https://avatars.githubusercontent.com/u/158165914?v=4" width="120px;" alt="Maria Eduarda Reis"/>
+                <img src="https://avatars.githubusercontent.com/u/158165914?v=4" width="200px;" alt="Maria Eduarda Reis"/>
                 <br /><b>Maria Eduarda Reis</b>
             <br />
         </td>
         <td align="center" width="20%">
-                <img src="https://avatars.githubusercontent.com/u/158165846?v=4" width="120px;" alt="Bruno Quintino"/>
+                <img src="https://avatars.githubusercontent.com/u/158165846?v=4" width="200px;" alt="Bruno Quintino"/>
                 <br /><b>Anna Clara</b>
             <br />
             <sub></sub>
